@@ -22,8 +22,6 @@ class Practice1{
     }
 }
 
-
-
 // 找出每行的最大值
 class Practice2{
     public static void run(){

@@ -6,7 +6,6 @@ public class Student {
     private int age;
     private double score;
 
-
     public void setName(String name){
         this.name = name;
     }
@@ -31,4 +30,11 @@ public class Student {
     }
 }
 
+class Teacher extends src.day08_commandline_oop.corefeatures.Student {
+    String subject;
+
+    void teach(){
+        System.out.println(getName() + "正在讲授" + subject);
+    }
+}
 

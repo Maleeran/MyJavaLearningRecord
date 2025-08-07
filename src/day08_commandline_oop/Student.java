@@ -1,4 +1,4 @@
-// Student.java 示例代码
+// Dog.java 示例代码
 package src.day08_commandline_oop;
 
 public class Student {

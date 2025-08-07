@@ -1,4 +1,4 @@
-// Student.java 示例代码
+// Dog.java 示例代码
 package src.day09_constructor_keywords;
 
 public class Student extends Person {

@@ -1,4 +1,4 @@
-package src.day_18_Collections.listDemo.Practice.Practice1;
+package src.day_18_Collections.Practice.Practice1;
 
 import java.util.*;
 

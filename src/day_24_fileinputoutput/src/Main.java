@@ -1,11 +1,10 @@
-package src.day_24_fileinputoutput;
+package src.day_24_fileinputoutput.src;
 
 import src.day_24_fileinputoutput.src.model.Student;
 import src.day_24_fileinputoutput.src.exception.FileOperationException;
 import src.day_24_fileinputoutput.src.util.FileManager;
 
 import java.util.Map;
-import java.util.HashMap;
 
 public class Main {
     public static void main(String[] args) {

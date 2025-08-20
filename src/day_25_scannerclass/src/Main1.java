@@ -1,4 +1,4 @@
-package src.day_25_scannerclass;
+package src.day_25_scannerclass.src;
 
 import java.util.Scanner;
 

@@ -1,6 +1,5 @@
-package src.day_25_scannerclass;
+package src.day_25_scannerclass.src;
 
-import com.sun.source.tree.CaseTree;
 import src.day_25_scannerclass.src.util.StudentManager;
 import src.day_25_scannerclass.src.exception.InputException;
 
